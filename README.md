@@ -1,4 +1,9 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+# NAME : S.DINESH RAGHAVENDARA
+# REFERENCE NUMBER : 24900081
+
+
+
+# EXP 2 : BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -35,16 +40,26 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: RegisterNumber:*/![WhatsApp Image 2024-11-21 at 1 13 10 PM (1)](https://github.com/user-attachments/assets/620244e8-2d18-48e1-b3ee-53a4a3246fd7)
+
 
 
 **RTL realization**
 
+![WhatsApp Image 2024-11-21 at 1 13 11 PM](https://github.com/user-attachments/assets/7c6f409d-1a47-4b08-99b4-05b95c582e8e)
+
+
 **Output:**
+![WhatsApp Image 2024-11-21 at 1 13 10 PM](https://github.com/user-attachments/assets/8d37772c-b4ff-4686-a65c-6592a78c60ff)
+
+
 
 **RTL**
+![WhatsApp Image 2024-11-21 at 1 13 10 PM (1)](https://github.com/user-attachments/assets/c7c1bca7-02cd-44be-9c3f-cc63df5068be)
 
-**Timing Diagram**
+
+
+
 
 **Result:**
 
